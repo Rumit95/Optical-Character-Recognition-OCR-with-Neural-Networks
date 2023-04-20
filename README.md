@@ -18,6 +18,7 @@ This project aims to recognize English letters from images using neural networks
 
 ![Web App Screenshot](Static/Screenshot 2023-04-20 105812.png "Web App Screenshot")
 
+
 ## Approach
 
 1. The input image is first preprocessed to improve its quality and contrast using OpenCV.
