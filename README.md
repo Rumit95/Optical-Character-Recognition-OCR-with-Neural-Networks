@@ -16,7 +16,7 @@ This project aims to recognize English letters from images using neural networks
 5. Click on the `Submit` button to start the OCR process.
 6. The recognized text will be displayed on the web page.
 
-![Web App Screenshot](Static/Screenshot 2023-04-20 105812.png "Web App Screenshot")
+![Web App Screenshot](Static/Sample.png "Web App Screenshot")
 
 
 ## Approach
