@@ -13,7 +13,7 @@ This project aims to recognize English letters from images using neural networks
 2. Run `python app.py`.
 3. Navigate to `http://localhost:5000` in your web browser.
 4. Click on the `Choose File` button and select the image file.
-5. Click on the `Submit` button to start the OCR process.
+5. Click on the `Upload` button to start the OCR process.
 6. The recognized text will be displayed on the web page.
 
 ![Web App Screenshot](Static/Sample.png "Web App Screenshot")
